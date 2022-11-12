@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Mentoring"
+permalink: /mentoring/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
+
+
 
 Education
 ======
