@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Toriyama"
+title                    : "Michael Y. Toriyama"
 title_separator          : "-"
-name                     : &name "Michael Toriyama"
+name                     : &name "Michael Y. Toriyama"
 description              : &description "PhD Student, Northwestern University"
 url                      : https://mathtoriyama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
